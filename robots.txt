@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hohmuceep.bryankristen.com/sitemap.xml
